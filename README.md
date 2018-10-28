@@ -31,7 +31,7 @@ The net revenue across all policies is be calculated in the following manner:
 - <a href="http://www.codecogs.com/eqnedit.php?latex=premium" target="_blank"><img src="http://latex.codecogs.com/gif.latex?premium" title="premium" /></a> is the premium paid by the policy holder for the policy in consideration
 - <a href="http://www.codecogs.com/eqnedit.php?latex=incentive" target="_blank"><img src="http://latex.codecogs.com/gif.latex?incentive" title="incentive" /></a> is the incentive given to the agent for increasing the chance of renewal (estimated by the participant) for each policy
 
-The following equations provide the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
+The following equations give the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
 
 - Relationship between extra efforts in hours invested by an agent and Incentive to agent. After a point more incentives does not convert to extra efforts.
 
