@@ -22,6 +22,12 @@ The client has provided about information about:
 - customer demographics like age, monthly income and area type
 
 
+The net revenue across all policies is be calculated in the following manner:
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=Total&space;Net&space;Revenue&space;=&space;\sum&space;((Pbenchmark&space;&plus;&space;\Delta&space;p)*premium&space;-&space;incentive)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Total&space;Net&space;Revenue&space;=&space;\sum&space;((Pbenchmark&space;&plus;&space;\Delta&space;p)*premium&space;-&space;incentive)" title="Total Net Revenue = \sum ((Pbenchmark + \Delta p)*premium - incentive)" /></a>
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=Pbenchmark" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Pbenchmark" title="Pbenchmark" /></a> is the renewal probability predicted using a benchmark model by the insurance company
+
 The following equations provide the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
 
 - Relationship between extra efforts in hours invested by an agent and Incentive to agent. After a point more incentives does not convert to extra efforts.
