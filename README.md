@@ -1,5 +1,9 @@
 # McKinsey Analytics Online Hackathon 
 
+This project is part of the McKinsey Analytics Online Hackathon organised in July 2018 on Analytic Vidhya platform.
+The overall ranking achieved was 56th among 886 submissions 
+https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/pvt_lb
+
 **Problem Statement**
 
 The client is an insurance company and need a model to: 
