@@ -4,7 +4,7 @@ This project was part of the McKinsey Analytics Online Hackathon organised in Ju
 
 Private Leaderboard: Ranked 56th (score: 0.7926365431)
 
-https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/pvt_lb
+https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/
 
 
 **Problem Statement**
