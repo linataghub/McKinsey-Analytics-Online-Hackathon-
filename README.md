@@ -3,8 +3,8 @@
 **Problem Statement**
 
 The client is an insurance company and need a model to: 
-- predict clients propensity to pay renewal premium 
-- build an incentive plan for its agents to maximise the net revenue 
+- predict clients propensity to renew their policy
+- create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
 
 The client has provided about information about:
 - past transactions from the policy holders along with their demographics 
@@ -13,11 +13,14 @@ The client has provided about information about:
 - sourcing channel 
 - customer demographics like age, monthly income and area type
 
-In addition to the information above, the client has provided the following relationships:
-- Expected effort in hours put in by an agent for incentives provided 
+The following curve provides the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
 
-  <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;10*(1-exp(-X/400))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;10*(1-exp(-X/400))" title="Y = 10*(1-exp(-X/400))" /></a>
+- Relationship between extra efforts in hours invested by an agent and Incentive to agent. After a point more incentives does not convert to extra efforts.
 
-- Expected increase in chances of renewal, given the effort from the agent.
+  Equation for the effort-incentives curve: <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;10*(1-exp(-X/400))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;10*(1-exp(-X/400))" title="Y = 10*(1-exp(-X/400))" /></a>
 
-Given the information, the client wants you to predict the propensity of renewal collection and create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
+- Relationship between % improvement in renewal probability vs Agent effort in hours. The renewal probability cannot be improved beyond a certain level even with more efforts.
+
+  Equation for the % improvement in renewal prob vs effort curve: <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;20*(1-exp(-X/5))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;20*(1-exp(-X/5))" title="Y = 20*(1-exp(-X/5))" /></a>
+
+
