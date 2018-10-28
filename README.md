@@ -3,8 +3,8 @@
 **Problem Statement**
 
 The client is an insurance company and need a model to: 
-- predict clients propensity to renew their policy
-- create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
+1) predict clients propensity to renew their policy
+2) create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
 
 The client has provided about information about:
 - past transactions from the policy holders along with their demographics 
@@ -17,10 +17,10 @@ The following curve provides the relationship between extra effort in hours inve
 
 - Relationship between extra efforts in hours invested by an agent and Incentive to agent. After a point more incentives does not convert to extra efforts.
 
-  Equation for the effort-incentives curve: <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;10*(1-exp(-X/400))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;10*(1-exp(-X/400))" title="Y = 10*(1-exp(-X/400))" /></a>
+  Equation for the effort-incentives curve:   <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;10*(1-exp(-X/400))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;10*(1-exp(-X/400))" title="Y = 10*(1-exp(-X/400))" /></a>
 
 - Relationship between % improvement in renewal probability vs Agent effort in hours. The renewal probability cannot be improved beyond a certain level even with more efforts.
 
-  Equation for the % improvement in renewal prob vs effort curve: <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;20*(1-exp(-X/5))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;20*(1-exp(-X/5))" title="Y = 20*(1-exp(-X/5))" /></a>
+  Equation for the % improvement in renewal prob vs effort curve:   <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;20*(1-exp(-X/5))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;20*(1-exp(-X/5))" title="Y = 20*(1-exp(-X/5))" /></a>
 
 
