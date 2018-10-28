@@ -1,7 +1,7 @@
 # McKinsey Analytics Online Hackathon 
 
-This project is part of the McKinsey Analytics Online Hackathon organised in July 2018 on Analytic Vidhya platform.
-The overall ranking achieved was 56th among 886 submissions 
+This project was part of the McKinsey Analytics Online Hackathon organised in July 2018 on Analytic Vidhya platform.
+Private Leaderboard: ranked 56th (score: 0.7926365431)
 https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/pvt_lb
 
 **Problem Statement**
