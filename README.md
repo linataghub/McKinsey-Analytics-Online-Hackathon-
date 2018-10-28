@@ -13,12 +13,14 @@ The client is an insurance company and need a model to:
 1) predict clients propensity to renew their policy
 2) create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
 
+
 The client has provided about information about:
 - past transactions from the policy holders along with their demographics 
 - aggregated historical transactional data like number of premiums delayed by 3/ 6/ 12 months across all the products 
 - number of premiums paid customer 
 - sourcing channel 
 - customer demographics like age, monthly income and area type
+
 
 The following curve provides the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
 
