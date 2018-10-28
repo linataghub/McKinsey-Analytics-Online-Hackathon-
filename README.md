@@ -15,7 +15,9 @@ The client has provided about informations about:
 
 In addition to the information above, the client has provided the following relationships:
 - Expected effort in hours put in by an agent for incentives provided 
+
 <a href="http://www.codecogs.com/eqnedit.php?latex=Y&space;=&space;10*(1-exp(-X/400))" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Y&space;=&space;10*(1-exp(-X/400))" title="Y = 10*(1-exp(-X/400))" /></a>
+
 - Expected increase in chances of renewal, given the effort from the agent.
 
 Given the information, the client wants you to predict the propensity of renewal collection and create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
