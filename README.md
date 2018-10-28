@@ -22,7 +22,7 @@ The client has provided about information about:
 - customer demographics like age, monthly income and area type
 
 
-The following curve provides the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
+The following equations provide the relationship between extra effort in hours invested by the agent with Incentive to the agent and % improvement in renewal probability vs agent effort in hours.
 
 - Relationship between extra efforts in hours invested by an agent and Incentive to agent. After a point more incentives does not convert to extra efforts.
 
